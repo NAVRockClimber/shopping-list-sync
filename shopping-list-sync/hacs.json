@@ -1,0 +1,5 @@
+{
+  "name": "Shopping List Sync",
+  "render_readme": true,
+  "iot_class": "cloud_polling"
+}

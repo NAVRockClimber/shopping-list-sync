@@ -1,0 +1,11 @@
+{
+  "codeowners": ["@NAVRockClimber"],
+  "config_flow": false,
+  "dependencies": [],
+  "documentation": "https://github.com/NAVRockClimber/shopping-list-sync",
+  "domain": "shopping-list-sync",
+  "iot_class": "cloud_polling",
+  "name": "Shopping List Sync",
+  "requirements": [],
+  "version": "0.0.1"
+}
